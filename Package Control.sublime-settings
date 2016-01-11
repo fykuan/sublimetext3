@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"FileBrowser",
+		"GitGutter",
+		"Material Theme",
+		"Monokai Extended",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"SublimeTmpl",
+		"SummitLinter",
+		"Theme - Dark Material"
+	]
+}
