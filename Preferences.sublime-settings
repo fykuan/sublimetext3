@@ -1,6 +1,6 @@
 {
 	"caert_extra_width": 2,
-	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"detect_identation": true,
 	"font_face": "Source Code Pro ExtraLight",
 	"font_size": 12,
@@ -9,6 +9,7 @@
 	[
 	],
 	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
