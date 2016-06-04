@@ -1,6 +1,7 @@
 {
 	"caert_extra_width": 2,
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+    "theme": "Primer Dark.sublime-theme",
+    "color_scheme": "Packages/Theme - Primer/primer.dark.tmTheme",
 	"detect_identation": true,
 	"font_face": "Source Code Pro ExtraLight",
 	"font_size": 12,
@@ -9,9 +10,34 @@
 	[
 	],
 	"tab_size": 4,
-	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"word_wrap": true
+	"word_wrap": true,
+
+    // Accent Colors
+    "theme_primer_tab_active_blue": true,       // default
+    //"theme_primer_tab_active_green": true,
+    //"theme_primer_tab_active_red": true,
+    //"theme_primer_tab_active_orange": true,
+    //"theme_primer_tab_active_purple": true,
+
+    // Tab Label Font Size
+    //"theme_primer_tabs_font_small": true,
+    "theme_primer_tabs_font_normal": true,      // default
+    //"theme_primer_tabs_font_large": true,
+    //"theme_primer_tabs_font_xlarge": true,
+
+    // Sidebar Row Padding
+    //"theme_primer_sidebar_tree_xsmall": true,
+    "theme_primer_sidebar_tree_small": true,
+    //"theme_primer_sidebar_tree_normal": true,   // default
+    //"theme_primer_sidebar_tree_large": true,
+    //"theme_primer_sidebar_tree_xlarge": true,
+
+    // Sidebar Font Size
+    "theme_primer_sidebar_font_small": true,
+    //"theme_primer_sidebar_font_normal": true,   // default
+    //"theme_primer_sidebar_font_large": true,
+    //"theme_primer_sidebar_font_xlarge": true,
 }

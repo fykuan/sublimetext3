@@ -11,6 +11,7 @@
 		"Emmet",
 		"FileBrowser",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"Material Color Scheme",
 		"Material Theme",
 		"Monokai Extended",
@@ -23,7 +24,9 @@
 		"SublimeLinter-pylint",
 		"SublimeTmpl",
 		"SummitLinter",
+		"Tag",
 		"Theme - Dark Material",
+		"Theme - Primer",
 		"Theme - Spacegray"
 	]
 }
