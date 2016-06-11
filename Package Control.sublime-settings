@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Anaconda",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Emmet",
@@ -21,6 +22,7 @@
 		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
 		"SublimeTmpl",
 		"SummitLinter",
